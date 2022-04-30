@@ -54,7 +54,7 @@ let age_3 = 60;
 let msg = "You don’t have access cause your age is" + age_1 + " It’s less then ";
 let msg_2 = "Welcome";
 let msg_3 = "Keep calm and look Culture channel";
-/*29. Создать if в котором будите проверять значение переменной age_1
+/*29. Создать if в котором будете проверять значение переменной age_1
  
  30. Если age_1 < age_2, вывести в консоль “You don’t have access cause your age is ” + age_1 + “ It’s less then ”*/
 if (age_1 < age_2) {
